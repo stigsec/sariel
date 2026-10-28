@@ -5,7 +5,7 @@
 
 ## Features
  - changeable batch size (default 5000)
- - outputs a ready `nmap` command
+ - outputs a ready `nmap` command (no autorun)
 
 ---
 
